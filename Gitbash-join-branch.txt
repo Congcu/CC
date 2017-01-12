@@ -1,0 +1,18 @@
+$ git init
+$ git add .
+$ commit -m "NAME1"
+$ git remote add origin LINK
+$ git checkout -b NAME2
+$ git push -u origin NAME2
+
+
+Ghi chu: 
+	- NAME1 Ten File
+	- NAME2 Ten Nhanh
+
+---------Upload file
+1> copy file can upload vao folder chua git
+2>chay lenh:
+	$ git add .
+	$ git commit -m NAME1
+	$ git push -u origin NAME2

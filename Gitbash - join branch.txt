@@ -10,3 +10,9 @@ Ghi chu:
 	- NAME1 Ten File
 	- NAME2 Ten Nhanh
 
+-----Upload File-----
+1> Copy file can upload vao Folder chua git
+2> chay lenh:
+	$ git add.
+	$ git commit -m NAME1
+	$ git push -u origin NAME2
